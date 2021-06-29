@@ -15,7 +15,7 @@
 ---
 <br>
 
-<img align='right' style="padding-top: 30px" src="https://github-readme-stats.vercel.app/api?username=davidfdesousa&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300">
+<img align='right' style="padding-top: 50px" src="https://github-readme-stats.vercel.app/api?username=davidfdesousa&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300">
 
 
 <br>
