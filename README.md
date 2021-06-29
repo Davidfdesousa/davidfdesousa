@@ -1,4 +1,7 @@
-<image src="https://media4.giphy.com/media/KOVlHmbBA09XO/200.gif" width="100%" />
+<div align="center">
+    <image  src="https://media4.giphy.com/media/KOVlHmbBA09XO/200.gif" width="500px" /> 
+</div>
+
 
 ---
 <br>
@@ -25,8 +28,9 @@
 <p>
 
 
-📲 Mobile developer focused on Javascript (React Native) on **Claro Brasil**. <br>
-🎓Computer scientist
+📲 Mobile developer focused on Javascript <br>(React Native) on **Claro Brasil**. <br>
+🎓Computer scientist <br>
+🏆 Hackathon Claro-API 2021
 
 I’m currently focused on 👨🏽‍💻 <br>
 Trying to improve my skills on both Javascript, Typescript  and ReactJs. 
