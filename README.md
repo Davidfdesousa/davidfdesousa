@@ -28,16 +28,14 @@
 <p>
 
 
-📲 Mobile developer focused on Javascript <br>(React Native) on **Claro Brasil**. <br>
+📲 Software Enginner Specialist focused on Javascript <br> on **Grupo Casas Bahia**. <br>
 🎓Computer scientist <br>
 🏆 Hackathon Claro-API 2021
 
 I’m currently focused on 👨🏽‍💻 <br>
 Trying to improve my skills on both Javascript, Typescript  and ReactJs. 
 
- <br>
-Find me here 🌎:
-✨ <a href="https://www.davidfdesousa.com.br">davidfdesousa.com.br</a>
+
 
 
 
