@@ -28,7 +28,7 @@
 <p>
 
 
-📲 Software Enginner Specialist focused on Javascript <br> on **Grupo Casas Bahia**. <br>
+📲 Software Enginner Specialist focused on Javascript <br>
 🎓Computer scientist <br>
 🏆 Hackathon Claro-API 2021
 
