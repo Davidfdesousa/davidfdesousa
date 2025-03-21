@@ -28,7 +28,7 @@
 <p>
 
 
-📲 Software Enginner Specialist focused on Javascript <br>
+📲 Software Enginner Specialist <br>
 🎓Computer scientist <br>
 🏆 Hackathon Claro-API 2021
 
